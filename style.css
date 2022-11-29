@@ -16,7 +16,6 @@
     justify-content: center;
     cursor: pointer;
     transition: all 1s linear;
-    display: none;
 }
 .rel .winter{
     width: 100%;
